@@ -1,11 +1,3 @@
-/*
-Comp3490 Assignment 2 Question 1 
-
-Name: Sijin Lee 
-ID: 7822352 
-Email: lees3436@myumanitoba.ca 
-*/
-
 
 //variables to determine which transformations to be applied to each house 
 boolean centerLeft = false; 
